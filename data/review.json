@@ -1,0 +1,302 @@
+[
+    {
+        "review": "Great stay! The room was spacious and clean. Highly recommended!",
+        "stars": 5,
+        "date": "2024-12-30"
+    },
+    {
+        "review": "Comfortable, but the check-in process was a bit slow.",
+        "stars": 4,
+        "date": "2024-12-29"
+    },
+    {
+        "review": "Not worth the price. The service was disappointing.",
+        "stars": 2,
+        "date": "2024-12-28"
+    },
+    {
+        "review": "Perfect location, and the staff was friendly. Would stay again.",
+        "stars": 5,
+        "date": "2024-12-27"
+    },
+    {
+        "review": "The room was noisy, and the air conditioning didn’t work well.",
+        "stars": 3,
+        "date": "2024-12-26"
+    },
+    {
+        "review": "Great amenities and nice view from the room.",
+        "stars": 5,
+        "date": "2024-12-25"
+    },
+    {
+        "review": "Room was clean but lacked some basic features.",
+        "stars": 3,
+        "date": "2024-12-24"
+    },
+    {
+        "review": "Amazing experience, would highly recommend to others!",
+        "stars": 5,
+        "date": "2024-12-23"
+    },
+    {
+        "review": "The food was not great, but the room was fine.",
+        "stars": 3,
+        "date": "2024-12-22"
+    },
+    {
+        "review": "Stayed for a business trip. The hotel was quiet and efficient.",
+        "stars": 4,
+        "date": "2024-12-21"
+    },
+    {
+        "review": "Disappointing. The facilities didn’t match the advertised images.",
+        "stars": 2,
+        "date": "2024-12-20"
+    },
+    {
+        "review": "Perfect for a weekend getaway. Clean room, nice staff.",
+        "stars": 5,
+        "date": "2024-12-19"
+    },
+    {
+        "review": "The location was great, but the room needed maintenance.",
+        "stars": 3,
+        "date": "2024-12-18"
+    },
+    {
+        "review": "Exceptional value for money. Very happy with my stay.",
+        "stars": 5,
+        "date": "2024-12-17"
+    },
+    {
+        "review": "Room was decent, but the Wi-Fi was spotty.",
+        "stars": 4,
+        "date": "2024-12-16"
+    },
+    {
+        "review": "I won’t be staying here again. Terrible service.",
+        "stars": 1,
+        "date": "2024-12-15"
+    },
+    {
+        "review": "The room was cozy, but the bed was a bit uncomfortable.",
+        "stars": 3,
+        "date": "2024-12-14"
+    },
+    {
+        "review": "Loved the breakfast options and the helpful staff.",
+        "stars": 5,
+        "date": "2024-12-13"
+    },
+    {
+        "review": "Overall good, but noisy in the evenings.",
+        "stars": 3,
+        "date": "2024-12-12"
+    },
+    {
+        "review": "Great place to stay for the price. Simple but effective.",
+        "stars": 4,
+        "date": "2024-12-11"
+    },
+    {
+        "review": "The staff was rude, and the room wasn’t clean.",
+        "stars": 2,
+        "date": "2024-12-10"
+    },
+    {
+        "review": "Amazing rooftop bar! The view was spectacular.",
+        "stars": 5,
+        "date": "2024-12-09"
+    },
+    {
+        "review": "The bathroom was outdated, but overall the stay was fine.",
+        "stars": 3,
+        "date": "2024-12-08"
+    },
+    {
+        "review": "Really enjoyed my stay. The bed was so comfy!",
+        "stars": 5,
+        "date": "2024-12-07"
+    },
+    {
+        "review": "Could use some improvements. The furniture was old.",
+        "stars": 3,
+        "date": "2024-12-06"
+    },
+    {
+        "review": "Nice, but the air conditioning was a bit loud.",
+        "stars": 4,
+        "date": "2024-12-05"
+    },
+    {
+        "review": "Very disappointed. The room was not as expected.",
+        "stars": 2,
+        "date": "2024-12-04"
+    },
+    {
+        "review": "Wonderful staff and excellent food. Very clean hotel.",
+        "stars": 5,
+        "date": "2024-12-03"
+    },
+    {
+        "review": "The hotel is fine, but not worth the price.",
+        "stars": 3,
+        "date": "2024-12-02"
+    },
+    {
+        "review": "Had an amazing weekend stay. The room was beautiful.",
+        "stars": 5,
+        "date": "2024-12-01"
+    },
+    {
+        "review": "The location was perfect, right near everything I needed.",
+        "stars": 4,
+        "date": "2024-11-30"
+    },
+    {
+        "review": "Not very clean. I wouldn’t stay here again.",
+        "stars": 2,
+        "date": "2024-11-29"
+    },
+    {
+        "review": "Decent place to stay for a couple of nights.",
+        "stars": 3,
+        "date": "2024-11-28"
+    },
+    {
+        "review": "Best hotel experience I’ve had in years! Excellent service.",
+        "stars": 5,
+        "date": "2024-11-27"
+    },
+    {
+        "review": "Nice hotel, but the shower had some issues.",
+        "stars": 3,
+        "date": "2024-11-26"
+    },
+    {
+        "review": "Location was excellent, and the hotel had great facilities.",
+        "stars": 4,
+        "date": "2024-11-25"
+    },
+    {
+        "review": "I loved everything about this hotel, very relaxing.",
+        "stars": 5,
+        "date": "2024-11-24"
+    },
+    {
+        "review": "Not bad, but the check-out process took too long.",
+        "stars": 3,
+        "date": "2024-11-23"
+    },
+    {
+        "review": "I’d stay again, but it’s nothing special.",
+        "stars": 4,
+        "date": "2024-11-22"
+    },
+    {
+        "review": "Really enjoyed my stay, though the Wi-Fi could be improved.",
+        "stars": 4,
+        "date": "2024-11-21"
+    },
+    {
+        "review": "The room was clean, but a bit outdated.",
+        "stars": 3,
+        "date": "2024-11-20"
+    },
+    {
+        "review": "Excellent hotel with great service and facilities.",
+        "stars": 5,
+        "date": "2024-11-19"
+    },
+    {
+        "review": "It was okay. Room was clean but nothing special.",
+        "stars": 3,
+        "date": "2024-11-18"
+    },
+    {
+        "review": "Wonderful location, but the service could have been better.",
+        "stars": 4,
+        "date": "2024-11-17"
+    },
+    {
+        "review": "Had a terrible experience. Would not recommend.",
+        "stars": 1,
+        "date": "2024-11-16"
+    },
+    {
+        "review": "Good stay overall. Room was a bit cramped, though.",
+        "stars": 4,
+        "date": "2024-11-15"
+    },
+    {
+        "review": "Nice place to stay, but a bit noisy at night.",
+        "stars": 3,
+        "date": "2024-11-14"
+    },
+    {
+        "review": "The staff was super helpful, and the room was cozy.",
+        "stars": 5,
+        "date": "2024-11-13"
+    },
+    {
+        "review": "The facilities were great, but the room needed better lighting.",
+        "stars": 4,
+        "date": "2024-11-12"
+    },
+    {
+        "review": "Overall fine, but the price didn’t match the quality.",
+        "stars": 3,
+        "date": "2024-11-11"
+    },
+    {
+        "review": "Fantastic hotel with everything I needed for a great stay.",
+        "stars": 5,
+        "date": "2024-11-10"
+    },
+    {
+        "review": "Very basic hotel, but it was clean and affordable.",
+        "stars": 3,
+        "date": "2024-11-09"
+    },
+    {
+        "review": "Lovely experience! The staff went out of their way to help.",
+        "stars": 5,
+        "date": "2024-11-08"
+    },
+    {
+        "review": "Room was okay, but the elevator was slow.",
+        "stars": 3,
+        "date": "2024-11-07"
+    },
+    {
+        "review": "The location was perfect, but the room was too small.",
+        "stars": 4,
+        "date": "2024-11-06"
+    },
+    {
+        "review": "Great hotel, but the breakfast could use some improvement.",
+        "stars": 3,
+        "date": "2024-11-05"
+    },
+    {
+        "review": "The service was excellent, and the location was prime.",
+        "stars": 5,
+        "date": "2024-11-04"
+    },
+    {
+        "review": "The room was fine but not very memorable.",
+        "stars": 3,
+        "date": "2024-11-03"
+    },
+    {
+        "review": "Fantastic value for money. Would definitely stay again.",
+        "stars": 5,
+        "date": "2024-11-02"
+    },
+    {
+        "review": "The room was clean but lacked some amenities.",
+        "stars": 3,
+        "date": "2024-11-01"
+    }
+]
